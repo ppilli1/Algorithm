@@ -1,2 +1,2 @@
-# Algorithm
-An algorithm allowing two rectangles to collide and/or bounce off.
+# p5.play-boilerplate
+Boiler plate for p5.play
